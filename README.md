@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/hydrocyclone-classification-explainer/
 
+Repository: https://github.com/mizcausevic-dev/hydrocyclone-classification-explainer
+
 ## What this is
 
 An interactive anatomy plate for Hydrocyclone Classification. Play, scrub, or jump the five stages. The same frame always draws the same picture.
